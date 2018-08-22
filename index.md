@@ -74,7 +74,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
----
+  content: 联系方式：010-61273510
 
+---
 foo bar
